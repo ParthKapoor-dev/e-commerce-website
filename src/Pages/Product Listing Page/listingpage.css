@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500&display=swap');
+.listingPage-div{
+  /* font-family: Arial, Helvetica, sans-serif; */
+  /* font-family: 'Barlow Condensed'; */
+  display: flex;
+  gap: 2vw;
+  background-color: #bebebe ;
+  padding: 20px 5px;
+  overflow: hidden;
+}
+.listingPage-products{
+  display: flex;
+  gap: 2vw;
+  width: 75vw;
+  flex-wrap: wrap;
+  overflow-y: auto; /* Enable vertical scrolling for product listing */
+  max-height: calc(100vh - 40px); 
+  box-sizing: border-box;
+}
+.listingPage-product{
+  height: 66vh;
+  width: 22vw;
+  padding: 1vw;
+  background-color: white  ;
+  box-sizing: border-box;
+  border-radius: 8px;
+}
+.listingPage-product-image-div{
+height: 20vw;
+width: 20vw;
+overflow: hidden;
+
+}
+.listingPage-product-image-div img{
+  width: 20vw;
+  object-fit: contain;
+  border-radius: 8px;
+  transition: all 1s ease-out;
+}
+.listingPage-product-image-div img:hover{
+  transform: scale(1.1);
+}
+
+
+
+.listingPage-product-descriptionContent {
+  padding: 10px;
+  color: #333; /* Dark text color for better contrast */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* height: 50%; */
+}
+.titleandprice{
+  display: flex;
+  justify-content: space-between;
+
+}
+.listingPage-product-Title {
+  font-size: 24px;
+  font-family: 'Barlow Condensed';
+  font-weight: bold;
+}
+
+.listingPage-product-price {
+  font-family: 'Barlow Condensed';
+  font-size:25px;
+  width: 60px;
+  /* align-self: center; */
+  text-align: center;
+}
+
+.listingPage-product-reviews {
+  font-size: 20px;
+  color: #ff6f61; 
+  font-family: 'Barlow Condensed'
+}
+
+.listingPage-product-deliveryDetails {
+  font-size: 18px;
+  color: #777; 
+  font-family: 'Barlow Condensed'
+}
+
+
+
+
+
+
+
+
+
+
+.listingPage-filterSection {
+  box-sizing: border-box;
+  font-family: 'Barlow Condensed', sans-serif;
+  width: 25vw;
+  border-radius: 8px;
+  padding: 10px;
+  top:20px;
+  position: sticky;
+
+}
+.filerSection-heading{
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.listingPage-filterSection-options {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Barlow Condensed', sans-serif;
+
+}
+
+.listingPage-filterSection-sortby {
+  font-family: 'Barlow Condensed', sans-serif;
+  border-top: 1px solid rgb(151, 148, 148);
+  border-bottom: 1px solid rgb(151, 148, 148);
+  padding: 2px 0px;
+
+}
+.listingPage-filterSection-SortBy-title{
+  font-family: 'Barlow Condensed';
+  font-size: 30px;
+  margin: 5px 3px;
+}
+
+.listingPage-filterSection-sortby input[type='radio'] {
+  display: none; 
+}
+
+.listingPage-filterSection-sortby label {
+  font-family: 'Barlow Condensed';
+  display: inline-block;
+  height: 5vh;
+  width: 9vw;
+  padding: 3px 15px;
+  margin: 3px 25px;
+  font-size: 22px;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.listingPage-filterSection-sortby label:hover {
+  background-color: #e0e0e0;
+
+}
+
+.listingPage-filterSection-sortby input[type='radio']:checked + label {
+  background-color: #ff6f61;
+  color: white;
+
+}
+.listingPage-filterSection-reviewsection{
+  border-bottom: 1px solid rgb(151, 148, 148);
+  padding-bottom: 5px;
+}
+.listingPage-filterSection-review-title{
+  font-family: 'Barlow Condensed';
+  font-size: 30px;
+  margin: 5px 3px;
+}
+.listingPage-filterSection-reviews {
+  font-family: 'Barlow Condensed', sans-serif;
+  display: flex;
+  gap: 10px;
+  height: 6vh;
+  width: 13vw;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 5px 15px;
+  margin: 3px 25px;
+  border-radius:4px ;
+}
+
+.listingPage-filterSection-review {
+  font-size: 25px;
+  color: #ff6f61;
+  cursor: pointer;
+  font-family: 'Barlow Condensed';
+  transition: transform 0.2s ease;
+}
+
+.listingPage-filterSection-review:hover {
+  transform: scale(1.5);
+}

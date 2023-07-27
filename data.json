@@ -1,0 +1,574 @@
+[
+  {
+    "product_id": "63853b86-54fa-4024-85c9-f74afd085e71",
+    "product_name": "Tasty Rubber Pizza",
+    "product_price": "659.00",
+    "product_images": [
+      "https://picsum.photos/id/0/1000",
+      "https://picsum.photos/id/100/1000",
+      "https://picsum.photos/id/200/1000",
+      "https://picsum.photos/id/300/1000",
+      "https://picsum.photos/id/400/1000"
+    ],
+    "product_rating": 4,
+    "product_adjectives": [
+      "Small",
+      "Handmade",
+      "Handcrafted",
+      "Ergonomic",
+      "Rustic"
+    ],
+    "product_description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "c4c95574-e8f6-48bd-8066-f8b64252cb26",
+    "product_name": "Gorgeous Frozen Pizza",
+    "product_price": "932.00",
+    "product_images": [
+      "https://picsum.photos/id/4/1000",
+      "https://picsum.photos/id/101/1000",
+      "https://picsum.photos/id/201/1000",
+      "https://picsum.photos/id/301/1000",
+      "https://picsum.photos/id/401/1000"
+    ],
+    "product_rating": 1,
+    "product_adjectives": [
+      "Refined",
+      "Handcrafted",
+      "Handmade",
+      "Fantastic",
+      "Licensed"
+    ],
+    "product_description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "7cdbae4b-5ee1-4f28-90a1-f2a7c5b695bf",
+    "product_name": "Intelligent Cotton Tuna",
+    "product_price": "723.00",
+    "product_images": [
+      "https://picsum.photos/id/8/1000",
+      "https://picsum.photos/id/102/1000",
+      "https://picsum.photos/id/202/1000",
+      "https://picsum.photos/id/302/1000",
+      "https://picsum.photos/id/402/1000"
+    ],
+    "product_rating": 3,
+    "product_adjectives": [
+      "Small",
+      "Incredible",
+      "Handcrafted",
+      "Practical",
+      "Gorgeous"
+    ],
+    "product_description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "d30640ee-5baf-4e12-9bc9-23f3c5cca73e",
+    "product_name": "Sleek Soft Sausages",
+    "product_price": "951.00",
+    "product_images": [
+      "https://picsum.photos/id/12/1000",
+      "https://picsum.photos/id/103/1000",
+      "https://picsum.photos/id/203/1000",
+      "https://picsum.photos/id/31/1000",
+      "https://picsum.photos/id/403/1000"
+    ],
+    "product_rating": 2,
+    "product_adjectives": [
+      "Incredible",
+      "Gorgeous",
+      "Licensed",
+      "Tasty",
+      "Gorgeous"
+    ],
+    "product_description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "2759f150-f783-495c-8336-63625f951677",
+    "product_name": "Licensed Metal Chair",
+    "product_price": "786.00",
+    "product_images": [
+      "https://picsum.photos/id/16/1000",
+      "https://picsum.photos/id/104/1000",
+      "https://picsum.photos/id/204/1000",
+      "https://picsum.photos/id/304/1000",
+      "https://picsum.photos/id/404/1000"
+    ],
+    "product_rating": 3,
+    "product_adjectives": [
+      "Incredible",
+      "Gorgeous",
+      "Practical",
+      "Handmade",
+      "Small"
+    ],
+    "product_description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "aba4f800-f54b-48b3-b6b2-d4b5c4ea8a68",
+    "product_name": "Awesome Fresh Keyboard",
+    "product_price": "566.00",
+    "product_images": [
+      "https://picsum.photos/id/20/1000",
+      "https://picsum.photos/id/35/1000",
+      "https://picsum.photos/id/38/1000",
+      "https://picsum.photos/id/305/1000",
+      "https://picsum.photos/id/405/1000"
+    ],
+    "product_rating": 2,
+    "product_adjectives": [
+      "Practical",
+      "Generic",
+      "Small",
+      "Handcrafted",
+      "Sleek"
+    ],
+    "product_description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "fecdff5e-7886-4425-9843-0ca359312ea5",
+    "product_name": "Fantastic Concrete Chicken",
+    "product_price": "242.00",
+    "product_images": [
+      "https://picsum.photos/id/24/1000",
+      "https://picsum.photos/id/106/1000",
+      "https://picsum.photos/id/206/1000",
+      "https://picsum.photos/id/306/1000",
+      "https://picsum.photos/id/406/1000"
+    ],
+    "product_rating": 2,
+    "product_adjectives": [
+      "Awesome",
+      "Handcrafted",
+      "Generic",
+      "Generic",
+      "Fantastic"
+    ],
+    "product_description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "15de5b69-2849-4592-bfca-2913e92c1ecb",
+    "product_name": "Refined Granite Fish",
+    "product_price": "179.00",
+    "product_images": [
+      "https://picsum.photos/id/28/1000",
+      "https://picsum.photos/id/107/1000",
+      "https://picsum.photos/id/41/1000",
+      "https://picsum.photos/id/307/1000",
+      "https://picsum.photos/id/407/1000"
+    ],
+    "product_rating": 2,
+    "product_adjectives": [
+      "Practical",
+      "Refined",
+      "Refined",
+      "Generic",
+      "Licensed"
+    ],
+    "product_description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "cea4d846-3120-4d5d-bd3a-c353055f92d8",
+    "product_name": "Gorgeous Fresh Bike",
+    "product_price": "480.00",
+    "product_images": [
+      "https://picsum.photos/id/32/1000",
+      "https://picsum.photos/id/108/1000",
+      "https://picsum.photos/id/208/1000",
+      "https://picsum.photos/id/308/1000",
+      "https://picsum.photos/id/408/1000"
+    ],
+    "product_rating": 1,
+    "product_adjectives": [
+      "Incredible",
+      "Handmade",
+      "Handmade",
+      "Handcrafted",
+      "Intelligent"
+    ],
+    "product_description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "f3251921-9dac-4e13-8f5f-f31873d51cf0",
+    "product_name": "Licensed Fresh Chips",
+    "product_price": "657.00",
+    "product_images": [
+      "https://picsum.photos/id/36/1000",
+      "https://picsum.photos/id/109/1000",
+      "https://picsum.photos/id/209/1000",
+      "https://picsum.photos/id/309/1000",
+      "https://picsum.photos/id/409/1000"
+    ],
+    "product_rating": 1,
+    "product_adjectives": [
+      "Practical",
+      "Ergonomic",
+      "Unbranded",
+      "Unbranded",
+      "Handmade"
+    ],
+    "product_description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "6c6f259d-d432-4c26-9ae9-728761f1c3b1",
+    "product_name": "Generic Rubber Shirt",
+    "product_price": "400.00",
+    "product_images": [
+      "https://picsum.photos/id/40/1000",
+      "https://picsum.photos/id/110/1000",
+      "https://picsum.photos/id/210/1000",
+      "https://picsum.photos/id/310/1000",
+      "https://picsum.photos/id/410/1000"
+    ],
+    "product_rating": 2,
+    "product_adjectives": [
+      "Ergonomic",
+      "Refined",
+      "Practical",
+      "Small",
+      "Generic"
+    ],
+    "product_description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "66b0dcb0-a1db-4d86-9201-a36bb5ff4dcd",
+    "product_name": "Sleek Cotton Pants",
+    "product_price": "829.00",
+    "product_images": [
+      "https://picsum.photos/id/44/1000",
+      "https://picsum.photos/id/111/1000",
+      "https://picsum.photos/id/211/1000",
+      "https://picsum.photos/id/311/1000",
+      "https://picsum.photos/id/411/1000"
+    ],
+    "product_rating": 3,
+    "product_adjectives": [
+      "Ergonomic",
+      "Tasty",
+      "Practical",
+      "Tasty",
+      "Fantastic"
+    ],
+    "product_description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "ba3ff35a-7142-489e-aed7-d5842f883f8e",
+    "product_name": "Generic Metal Shirt",
+    "product_price": "639.00",
+    "product_images": [
+      "https://picsum.photos/id/48/1000",
+      "https://picsum.photos/id/112/1000",
+      "https://picsum.photos/id/212/1000",
+      "https://picsum.photos/id/312/1000",
+      "https://picsum.photos/id/412/1000"
+    ],
+    "product_rating": 4,
+    "product_adjectives": [
+      "Small",
+      "Rustic",
+      "Licensed",
+      "Generic",
+      "Refined"
+    ],
+    "product_description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "37e57c27-d310-40c4-aac0-5f082e310463",
+    "product_name": "Licensed Soft Shirt",
+    "product_price": "87.00",
+    "product_images": [
+      "https://picsum.photos/id/52/1000",
+      "https://picsum.photos/id/113/1000",
+      "https://picsum.photos/id/213/1000",
+      "https://picsum.photos/id/313/1000",
+      "https://picsum.photos/id/413/1000"
+    ],
+    "product_rating": 5,
+    "product_adjectives": [
+      "Generic",
+      "Incredible",
+      "Refined",
+      "Handmade",
+      "Handcrafted"
+    ],
+    "product_description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "abe03563-24f4-4f0e-a5f7-4c5b0bbeb7f6",
+    "product_name": "Handmade Metal Fish",
+    "product_price": "323.00",
+    "product_images": [
+      "https://picsum.photos/id/56/1000",
+      "https://picsum.photos/id/114/1000",
+      "https://picsum.photos/id/214/1000",
+      "https://picsum.photos/id/314/1000",
+      "https://picsum.photos/id/43/1000"
+    ],
+    "product_rating": 1,
+    "product_adjectives": [
+      "Practical",
+      "Awesome",
+      "Sleek",
+      "Handmade",
+      "Gorgeous"
+    ],
+    "product_description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "3d223409-74d2-48e1-9183-a51137f1db7c",
+    "product_name": "Refined Soft Shoes",
+    "product_price": "853.00",
+    "product_images": [
+      "https://picsum.photos/id/60/1000",
+      "https://picsum.photos/id/115/1000",
+      "https://picsum.photos/id/215/1000",
+      "https://picsum.photos/id/315/1000",
+      "https://picsum.photos/id/415/1000"
+    ],
+    "product_rating": 2,
+    "product_adjectives": [
+      "Small",
+      "Handcrafted",
+      "Handmade",
+      "Practical",
+      "Fantastic"
+    ],
+    "product_description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "62338e28-ec22-4f3f-a728-3b726180b0fe",
+    "product_name": "Tasty Rubber Towels",
+    "product_price": "548.00",
+    "product_images": [
+      "https://picsum.photos/id/64/1000",
+      "https://picsum.photos/id/116/1000",
+      "https://picsum.photos/id/216/1000",
+      "https://picsum.photos/id/316/1000",
+      "https://picsum.photos/id/416/1000"
+    ],
+    "product_rating": 5,
+    "product_adjectives": [
+      "Handcrafted",
+      "Handcrafted",
+      "Handmade",
+      "Sleek",
+      "Small"
+    ],
+    "product_description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "b1e4c226-1168-4246-ae2c-19bf2c037ed6",
+    "product_name": "Awesome Concrete Chicken",
+    "product_price": "951.00",
+    "product_images": [
+      "https://picsum.photos/id/68/1000",
+      "https://picsum.photos/id/117/1000",
+      "https://picsum.photos/id/217/1000",
+      "https://picsum.photos/id/317/1000",
+      "https://picsum.photos/id/417/1000"
+    ],
+    "product_rating": 2,
+    "product_adjectives": [
+      "Licensed",
+      "Handcrafted",
+      "Handcrafted",
+      "Generic",
+      "Small"
+    ],
+    "product_description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "f9f0db47-1017-4189-99b6-84aae6a8d6a5",
+    "product_name": "Refined Granite Car",
+    "product_price": "817.00",
+    "product_images": [
+      "https://picsum.photos/id/72/1000",
+      "https://picsum.photos/id/118/1000",
+      "https://picsum.photos/id/218/1000",
+      "https://picsum.photos/id/318/1000",
+      "https://picsum.photos/id/418/1000"
+    ],
+    "product_rating": 3,
+    "product_adjectives": [
+      "Handcrafted",
+      "Gorgeous",
+      "Fantastic",
+      "Fantastic",
+      "Intelligent"
+    ],
+    "product_description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "a26ce6b9-504d-4dfb-959c-77b588ea0760",
+    "product_name": "Intelligent Fresh Keyboard",
+    "product_price": "682.00",
+    "product_images": [
+      "https://picsum.photos/id/76/1000",
+      "https://picsum.photos/id/119/1000",
+      "https://picsum.photos/id/219/1000",
+      "https://picsum.photos/id/319/1000",
+      "https://picsum.photos/id/419/1000"
+    ],
+    "product_rating": 4,
+    "product_adjectives": [
+      "Gorgeous",
+      "Rustic",
+      "Handcrafted",
+      "Licensed",
+      "Licensed"
+    ],
+    "product_description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "5063278e-2c0a-4543-94ae-d77a4c26d2a1",
+    "product_name": "Gorgeous Fresh Pizza",
+    "product_price": "511.00",
+    "product_images": [
+      "https://picsum.photos/id/80/1000",
+      "https://picsum.photos/id/120/1000",
+      "https://picsum.photos/id/220/1000",
+      "https://picsum.photos/id/320/1000",
+      "https://picsum.photos/id/420/1000"
+    ],
+    "product_rating": 3,
+    "product_adjectives": [
+      "Ergonomic",
+      "Incredible",
+      "Unbranded",
+      "Refined",
+      "Licensed"
+    ],
+    "product_description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "3f7a80cf-e800-4ddf-93c4-d1571fc59b5d",
+    "product_name": "Practical Concrete Fish",
+    "product_price": "122.00",
+    "product_images": [
+      "https://picsum.photos/id/84/1000",
+      "https://picsum.photos/id/121/1000",
+      "https://picsum.photos/id/221/1000",
+      "https://picsum.photos/id/321/1000",
+      "https://picsum.photos/id/421/1000"
+    ],
+    "product_rating": 1,
+    "product_adjectives": [
+      "Refined",
+      "Small",
+      "Rustic",
+      "Rustic",
+      "Gorgeous"
+    ],
+    "product_description": "The Football Is Good For Training And Recreational Purposes",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "a740a753-98ea-4234-ad51-8c5e79b5d9eb",
+    "product_name": "Incredible Soft Shirt",
+    "product_price": "827.00",
+    "product_images": [
+      "https://picsum.photos/id/88/1000",
+      "https://picsum.photos/id/122/1000",
+      "https://picsum.photos/id/222/1000",
+      "https://picsum.photos/id/322/1000",
+      "https://picsum.photos/id/51/1000"
+    ],
+    "product_rating": 1,
+    "product_adjectives": [
+      "Intelligent",
+      "Refined",
+      "Practical",
+      "Unbranded",
+      "Intelligent"
+    ],
+    "product_description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "5681946d-bb37-415d-a14b-9925047129dd",
+    "product_name": "Handcrafted Soft Chips",
+    "product_price": "693.00",
+    "product_images": [
+      "https://picsum.photos/id/92/1000",
+      "https://picsum.photos/id/123/1000",
+      "https://picsum.photos/id/223/1000",
+      "https://picsum.photos/id/323/1000",
+      "https://picsum.photos/id/423/1000"
+    ],
+    "product_rating": 1,
+    "product_adjectives": [
+      "Handmade",
+      "Gorgeous",
+      "Rustic",
+      "Awesome",
+      "Practical"
+    ],
+    "product_description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "d546bbde-027f-4e3b-b3c9-2eb549259f18",
+    "product_name": "Practical Steel Tuna",
+    "product_price": "110.00",
+    "product_images": [
+      "https://picsum.photos/id/96/1000",
+      "https://picsum.photos/id/124/1000",
+      "https://picsum.photos/id/61/1000",
+      "https://picsum.photos/id/324/1000",
+      "https://picsum.photos/id/424/1000"
+    ],
+    "product_rating": 2,
+    "product_adjectives": [
+      "Rustic",
+      "Handcrafted",
+      "Handmade",
+      "Intelligent",
+      "Incredible"
+    ],
+    "product_description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  },
+  {
+    "product_id": "1b6bdd38-395f-47cf-af3b-10d05ade6bcc",
+    "product_name": "Incredible Fresh Gloves",
+    "product_price": "163.00",
+    "product_images": [
+      "https://picsum.photos/id/100/1000",
+      "https://picsum.photos/id/125/1000",
+      "https://picsum.photos/id/225/1000",
+      "https://picsum.photos/id/325/1000",
+      "https://picsum.photos/id/425/1000"
+    ],
+    "product_rating": 3,
+    "product_adjectives": [
+      "Practical",
+      "Intelligent",
+      "Awesome",
+      "Incredible",
+      "Tasty"
+    ],
+    "product_description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "product_delivery": "By 25 Dec , 2025 i.e. Tuesday"
+  }
+]

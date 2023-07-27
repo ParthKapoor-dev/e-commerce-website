@@ -1,0 +1,46 @@
+nav {
+  background-color: #333;
+  color: white;
+  /* background-color: #bebebe ;
+    color: #333; */
+  margin: 5px 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.navbar-items {
+  display: flex;
+  align-items: center;
+  gap: 2vw;
+  padding: 0 80px;
+}
+
+.logo {
+  padding-left: 30px;
+}
+
+.logo img {
+  width: 100px;
+}
+
+.homepage-p,
+.cartpage-p,
+.login-p,
+.searchBar-p {
+  font-size: 20px;
+  margin: 0px;
+  padding: 5px;
+  cursor: pointer;
+  min-width: 92px;
+}
+
+
+.homepage-p:hover,
+.cartpage-p:hover,
+.login-p:hover,
+.searchBar:hover {
+  color: #ff6f61;
+}
